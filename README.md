@@ -1,4 +1,4 @@
-## 👋 Hyeri Jeong
+## 👋 hyeri
 
 
 ### 🛠 &nbsp;Skills
