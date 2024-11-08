@@ -1,4 +1,4 @@
-## 👋 안녕하세요 백엔드 개발자 정혜리입니다.
+## 👋 Hyeri Jeong
 
 
 ### 🛠 &nbsp;Skills
